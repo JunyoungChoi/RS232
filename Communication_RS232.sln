@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication_RS232", "Communication_RS232\Communication_RS232.csproj", "{CB90B4A8-7459-4D56-8FE3-86C3980103F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB90B4A8-7459-4D56-8FE3-86C3980103F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB90B4A8-7459-4D56-8FE3-86C3980103F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB90B4A8-7459-4D56-8FE3-86C3980103F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB90B4A8-7459-4D56-8FE3-86C3980103F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DEEC69E-C1C8-4B09-82E8-3BFDA19CB186}
+	EndGlobalSection
+EndGlobal
